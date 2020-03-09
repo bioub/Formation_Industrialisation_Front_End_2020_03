@@ -19,3 +19,7 @@ Récap des commandes
 * git push
 * git pull
 * new cmd
+## merge recursive
+git merge --no-ff --no-edit docs/git
+## git log in one line
+git log --oneline --all --graph
