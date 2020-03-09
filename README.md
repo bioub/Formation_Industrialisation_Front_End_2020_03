@@ -18,3 +18,4 @@ Récap des commandes
 * git reset
 * git push
 * git pull
+* new cmd
