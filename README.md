@@ -2,7 +2,7 @@
 
 Dates : du 09 au 11 mars 2020
 
-## Git
+## GIT
 
 Git permet de versionner son code
 
