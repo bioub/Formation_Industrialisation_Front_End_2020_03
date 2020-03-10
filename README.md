@@ -8,14 +8,14 @@ Git permet de versionner son code
 
 Récap des commandes
 
-* git init
-* git clone
-* git status
-* git log
-* git add
-* git commit
-* git checkout
-* git reset
-* git push
-* git pull
-* new cmd
+- git init
+- git clone
+- git status
+- git log
+- git add
+- git commit
+- git checkout
+- git reset
+- git push
+- git pull
+- new cmd
